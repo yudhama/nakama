@@ -1,5 +1,9 @@
 {
   "devDependencies": {
-    "cypress": "^10.6.0"
+    "cypress": "^10.6.0",
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^2.0.1",
+    "chromeWebSecurity": false,
+    "experimentalSessionAndOrigin": true
   }
 }
